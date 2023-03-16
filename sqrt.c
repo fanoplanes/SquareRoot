@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	}
 	else
 	{
-		printf("%.15fi\n",bits.x);
+		printf("%.15f\n",bits.x);
 	}
 	return 0;
 }
